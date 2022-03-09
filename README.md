@@ -1,1 +1,2 @@
-# madhavan-108-project
+# Normal-Distribution
+solution for c108
